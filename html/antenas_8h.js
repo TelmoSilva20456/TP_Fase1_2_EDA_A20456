@@ -1,0 +1,28 @@
+var antenas_8h =
+[
+    [ "Coordenada", "struct_coordenada.html", "struct_coordenada" ],
+    [ "Antena", "struct_antena.html", "struct_antena" ],
+    [ "EfeitoNefasto", "struct_efeito_nefasto.html", "struct_efeito_nefasto" ],
+    [ "Antena", "antenas_8h.html#a843ab8b81393e8ebb3eb6b76e349acc2", null ],
+    [ "EfeitoNefasto", "antenas_8h.html#a6167db7f1ec0c34503d24b77b3613bfa", null ],
+    [ "atualizarMatrizComEfeitos", "antenas_8h.html#aac534a21da9bc8e3d2248573c43ba906", null ],
+    [ "calcularEfeitoNefasto", "antenas_8h.html#a63e01f1658a75c616851d6f700bb95d2", null ],
+    [ "carregarAntenasDeFicheiro", "antenas_8h.html#afaa494dfe21284cc4fcf865fcc960391", null ],
+    [ "exibir_matriz_efeito_nefasto", "antenas_8h.html#aa1747f6c5ff3f00d31cdd302b709bef5", null ],
+    [ "exibir_matriz_posicionamento", "antenas_8h.html#a28f61e9b5aec6223d7d48169b0ae6d09", null ],
+    [ "inicializar_lista", "antenas_8h.html#ae3587244c6931bcb17077440ba197069", null ],
+    [ "inicializar_matriz_efeito_nefasto", "antenas_8h.html#abd6f45ec1d923b0ff92d11ef1233d30c", null ],
+    [ "inicializarMatriz", "antenas_8h.html#a070093abbf87ed36808fecc77e75d8f4", null ],
+    [ "inserir_antenas_iniciais", "antenas_8h.html#a40c77060abab61d0a818dafbcd1002b9", null ],
+    [ "inserirAntena", "antenas_8h.html#a8bb5487b89754ea223b5aadadd9ecd59", null ],
+    [ "jaExisteAntena", "antenas_8h.html#af052a43f9ff0c2e31da2b614dc5aeb03", null ],
+    [ "libertarListaAntenas", "antenas_8h.html#a1b17ec16918e68267b1ac12f215d5cc6", null ],
+    [ "libertarListaEfeitos", "antenas_8h.html#acdb8cb70a3bcb6e244835103450ecf38", null ],
+    [ "libertarMatriz", "antenas_8h.html#a77484e72dda946869ea899022c71c498", null ],
+    [ "listarAntenas", "antenas_8h.html#ad8e25ea7e05f77d363c12d6f63e7ebde", null ],
+    [ "listarEfeitos", "antenas_8h.html#ad6462c4a35b2619d16154471b7338a6e", null ],
+    [ "marcarAntenasNaMatriz", "antenas_8h.html#a336d28a2a717d933c58e37faf20acabf", null ],
+    [ "removerAntena", "antenas_8h.html#ae1618377754cbd6153e90c198fc1630c", null ],
+    [ "salvar_antenas_arquivo", "antenas_8h.html#adfe6707f422f1baa7f72be4f731a20cc", null ],
+    [ "verificar_interferencia", "antenas_8h.html#a418da31eb6f76aebaacdb080d074f536", null ]
+];
